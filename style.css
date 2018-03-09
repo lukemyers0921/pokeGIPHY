@@ -1,3 +1,27 @@
 .item {
     display:inline-block;
+    border: solid blue 2px;
+    background: yellow;
+}
+.gif {
+   border-top: solid blue 2px;
+}
+* {
+    text-align: center;
+}
+#title {
+    font-family: 'Rammetto One';
+    font-size: 4em;
+    color: yellow;
+    text-shadow: -4px 0 blue, 0 4px blue, 4px 0 blue, 0 -4px blue;
+    letter-spacing: -5px;
+}
+#container-fluid {
+    background-color: black;
+}
+#label {
+    color: white;
+}
+body {
+    background: black !important;
 }
